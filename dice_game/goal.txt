@@ -1,0 +1,6 @@
+Creat a first page with a background using both html and css.
+create three links on the page that has play, instruction and edit name .
+on click of the links, i should be taken to new pages for both play and instruction respectively.
+The instruction page should tell the user how to play the game and should have a button that when clicked, takes the user to the play page.
+In the play page, on click of a button, the dice should rolled and the player with the highest number win and same number means a draw.
+A previous button should be on both the play and instruction page so that when clicked, the player is taken to the home page.
